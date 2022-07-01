@@ -1,0 +1,1 @@
+SELECT * FROM biblio.livre_emprunte;
